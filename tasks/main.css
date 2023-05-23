@@ -1,0 +1,76 @@
+/* task 1 */
+
+li {
+    padding-left: 10px;
+  }
+
+  /* task 2 */
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* task 3 */
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    border-top: 1px solid silver;
+    border-bottom: 1px solid black;
+  }
+
+  /* task 4 */ 
+
+  table {
+    width: 90%;
+    margin: 0 auto;
+  }
+  td, th {
+    padding: 0.5rem;
+    border: 1px solid #000;
+    text-align: center;
+  }
+
+  /* task 5 */
+
+  .frame{
+    background-color: purple;
+    width: 25%;
+    padding: 20px;
+    outline: 2px solid white;
+    outline-offset: -5px;
+  }
+
+  /* task 6 */
+
+  table{
+    background-color: rgb(139, 233, 202)    ;
+    width: 40%;
+    border-collapse: collapse;
+  }
+
+  td, th{
+    border: 1px solid #fff;
+  }
+
+  /* task 7 */
+
+  li{
+    background-color: rgb(255, 162, 128);
+    width: 20%;
+    padding: 15px;
+    margin-bottom: 2px;
+  }
+
+  li:first-child{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  li:last-child{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
